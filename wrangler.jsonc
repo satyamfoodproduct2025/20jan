@@ -1,0 +1,18 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "drishti-digital-library",
+  "compatibility_date": "2026-01-20",
+  "pages_build_output_dir": "./dist",
+  "compatibility_flags": ["nodejs_compat"],
+  "vars": {
+    "ADMIN_USERNAME": "admin",
+    "ADMIN_PASSWORD": "drishti@2026"
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "drishti-db",
+      "database_id": "placeholder-will-be-replaced-after-creation"
+    }
+  ]
+}
