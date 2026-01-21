@@ -11,7 +11,8 @@ INSERT OR REPLACE INTO site_settings (key, value) VALUES
   ('youtube_link', ''),
   ('google_map_embed', 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m13!1d58842.16434850721!2d86.1558223405761!3d22.815918731175654!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39f5e31989f0e2b3%3A0x4560124953c80051!2sSakchi%2C%20Jamshedpur%2C%20Jharkhand!5e0!3m2!1sen!2sin!4v1700000000000!5m2!1sen!2sin'),
   ('logo_text', 'DRISHTI'),
-  ('logo_highlight', 'LIBRARY'),
+  ('logo_highlight', 'DIGITAL LIBRARY'),
+  ('logo_url', ''),
   ('footer_text', '© 2026 Drishti Digital Library. All Rights Reserved.'),
   ('about_text', 'Drishti Digital Library - Jamshedpur ki sabse modern self-study library. Yahan aapko milega shant vatavaran, AC facility, high-speed WiFi aur bahut kuch.');
 
